@@ -1,0 +1,12 @@
+#vjs-img-modal-holder {
+    position: absolute;
+    top: 0;
+    left: 0;
+    text-align: center;
+    cursor: pointer;
+}
+#vjs-img-modal-holder img {
+    height: 100%;
+    margin: auto;
+    cursor: pointer;
+}
